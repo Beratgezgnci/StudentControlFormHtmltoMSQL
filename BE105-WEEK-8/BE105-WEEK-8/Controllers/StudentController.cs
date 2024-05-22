@@ -61,8 +61,6 @@ namespace BE105_WEEK_8.Controllers
 
             if (!ModelState.IsValid)
                 return BadRequest(ModelState);
-            //Student _student1=_context.Students.Where(u => u.Id == dto.Id).FirstOrDefault();
-            //dto.CreatedAt = _student1.CreatedAt;
 
             Student student = new Student
             {
@@ -72,7 +70,6 @@ namespace BE105_WEEK_8.Controllers
                 BirthDate = dto.BirthDate,
                 Lastname = dto.Lastname,
                 LastUpdatedAt = DateTime.Now,
-               // CreatedAt = dto.CreatedAt
             };
             _context.Students.Update(student);
             _context.SaveChanges();
