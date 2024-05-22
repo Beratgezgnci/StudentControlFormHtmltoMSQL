@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Pc//o7fXGjmNV7kS9dK9V7SHdxYXRQZffy31+RY7TumnTuv4vZ1KmYckBRsOGfIVU24YhgnyuOthQLSEhX+UZw==",
+  "dgSpecHash": "c+gwaMXaPkMeTTuo0aYb9iIUuyIg43O+KnLkedf61417Dxdh4to/5sr3Ykc49eTNwVUP9BkwoWY6otjO45CqVg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\berat\\source\\repos\\BE105-WEEK-8\\BE105-WEEK-8\\BE105-WEEK-8.csproj",
+  "projectFilePath": "C:\\Users\\berat\\OneDrive\\Masaüstü\\Berat_Gezginci_Gorev_8\\StudentControlFormHtmltoMSQL\\BE105-WEEK-8\\BE105-WEEK-8\\BE105-WEEK-8.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\berat\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\berat\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

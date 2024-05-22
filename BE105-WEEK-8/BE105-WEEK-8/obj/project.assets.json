@@ -3205,11 +3205,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\berat\\source\\repos\\BE105-WEEK-8\\BE105-WEEK-8\\BE105-WEEK-8.csproj",
+      "projectUniqueName": "C:\\Users\\berat\\OneDrive\\Masaüstü\\Berat_Gezginci_Gorev_8\\StudentControlFormHtmltoMSQL\\BE105-WEEK-8\\BE105-WEEK-8\\BE105-WEEK-8.csproj",
       "projectName": "BE105-WEEK-8",
-      "projectPath": "C:\\Users\\berat\\source\\repos\\BE105-WEEK-8\\BE105-WEEK-8\\BE105-WEEK-8.csproj",
+      "projectPath": "C:\\Users\\berat\\OneDrive\\Masaüstü\\Berat_Gezginci_Gorev_8\\StudentControlFormHtmltoMSQL\\BE105-WEEK-8\\BE105-WEEK-8\\BE105-WEEK-8.csproj",
       "packagesPath": "C:\\Users\\berat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\berat\\source\\repos\\BE105-WEEK-8\\BE105-WEEK-8\\obj\\",
+      "outputPath": "C:\\Users\\berat\\OneDrive\\Masaüstü\\Berat_Gezginci_Gorev_8\\StudentControlFormHtmltoMSQL\\BE105-WEEK-8\\BE105-WEEK-8\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\VisualStudio\\Shared\\NuGetPackages"
