@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap demo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+  </head>
+  <body>
+      <body data-bs-theme="dark">
+          <div class="container mt-5">
+            <ul class="nav nav-pills nav-fill">
+                <li class="nav-item">
+                  <a class="nav-link" href="StudentAddPost.html">Add Student</a>
+                </li>
+                <li class="nav-item">
+                   <a class="nav-link" href="UpdateStudents.html">Update Student</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="ListStudent.html">List Student</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link active"  aria-current="page" href="DeleteStudents.html">Delete Student</a>
+                </li>
+              </ul>
+        </div>
+            <form class="row g-3" id="studentList">
+                <div class="col-md-6">
+                    <label for="Number" class="form-label">Student Number</label>
+                    <input type="text" class="form-control" id="Number" >
+                  </div>
+                <div class="col-12">
+                    <button type="submit" class="btn btn-primary">Delete Student</button>
+                  </div>
+              </form>
+              <list>
+                <h2 id="list"></h2>
+              </list>
+        </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    <script>
+        const form = document.getElementById('studentList');
+        const list = document.getElementById('list')
+        form.addEventListener('submit', (e) => {
+            var id = document.getElementById('Number').value
+            e.preventDefault();
+            const students = null
+           
+            fetch('https://localhost:7022/api/Student/'+id,{method: 'DELETE'})
+
+          document.getElementById('list').innerHTML="Student Deleted!"
+
+
+        
+        
+        })
+    </script>
+  </body>
+</html>

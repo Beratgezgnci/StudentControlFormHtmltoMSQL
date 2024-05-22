@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\berat\\source\\repos\\BE105-WEEK-8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08D2BBE2-2E37-4754-AD82-B5F86FDB8392}|BE105-WEEK-8\\BE105-WEEK-8.csproj|c:\\users\\berat\\source\\repos\\be105-week-8\\be105-week-8\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D2BBE2-2E37-4754-AD82-B5F86FDB8392}|BE105-WEEK-8\\BE105-WEEK-8.csproj|solutionrelative:be105-week-8\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D2BBE2-2E37-4754-AD82-B5F86FDB8392}|BE105-WEEK-8\\BE105-WEEK-8.csproj|c:\\users\\berat\\source\\repos\\be105-week-8\\be105-week-8\\dtos\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D2BBE2-2E37-4754-AD82-B5F86FDB8392}|BE105-WEEK-8\\BE105-WEEK-8.csproj|solutionrelative:be105-week-8\\dtos\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D2BBE2-2E37-4754-AD82-B5F86FDB8392}|BE105-WEEK-8\\BE105-WEEK-8.csproj|c:\\users\\berat\\source\\repos\\be105-week-8\\be105-week-8\\data\\seeders\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D2BBE2-2E37-4754-AD82-B5F86FDB8392}|BE105-WEEK-8\\BE105-WEEK-8.csproj|solutionrelative:be105-week-8\\data\\seeders\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D2BBE2-2E37-4754-AD82-B5F86FDB8392}|BE105-WEEK-8\\BE105-WEEK-8.csproj|c:\\users\\berat\\source\\repos\\be105-week-8\\be105-week-8\\dtos\\studentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D2BBE2-2E37-4754-AD82-B5F86FDB8392}|BE105-WEEK-8\\BE105-WEEK-8.csproj|solutionrelative:be105-week-8\\dtos\\studentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D2BBE2-2E37-4754-AD82-B5F86FDB8392}|BE105-WEEK-8\\BE105-WEEK-8.csproj|c:\\users\\berat\\source\\repos\\be105-week-8\\be105-week-8\\data\\entityconfigurations\\studentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D2BBE2-2E37-4754-AD82-B5F86FDB8392}|BE105-WEEK-8\\BE105-WEEK-8.csproj|solutionrelative:be105-week-8\\data\\entityconfigurations\\studentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D2BBE2-2E37-4754-AD82-B5F86FDB8392}|BE105-WEEK-8\\BE105-WEEK-8.csproj|c:\\users\\berat\\source\\repos\\be105-week-8\\be105-week-8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D2BBE2-2E37-4754-AD82-B5F86FDB8392}|BE105-WEEK-8\\BE105-WEEK-8.csproj|solutionrelative:be105-week-8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D2BBE2-2E37-4754-AD82-B5F86FDB8392}|BE105-WEEK-8\\BE105-WEEK-8.csproj|c:\\users\\berat\\source\\repos\\be105-week-8\\be105-week-8\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D2BBE2-2E37-4754-AD82-B5F86FDB8392}|BE105-WEEK-8\\BE105-WEEK-8.csproj|solutionrelative:be105-week-8\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D2BBE2-2E37-4754-AD82-B5F86FDB8392}|BE105-WEEK-8\\BE105-WEEK-8.csproj|c:\\users\\berat\\source\\repos\\be105-week-8\\be105-week-8\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D2BBE2-2E37-4754-AD82-B5F86FDB8392}|BE105-WEEK-8\\BE105-WEEK-8.csproj|solutionrelative:be105-week-8\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D2BBE2-2E37-4754-AD82-B5F86FDB8392}|BE105-WEEK-8\\BE105-WEEK-8.csproj|c:\\users\\berat\\source\\repos\\be105-week-8\\be105-week-8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{08D2BBE2-2E37-4754-AD82-B5F86FDB8392}|BE105-WEEK-8\\BE105-WEEK-8.csproj|solutionrelative:be105-week-8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\berat\\source\\repos\\BE105-WEEK-8\\BE105-WEEK-8\\Data\\Seeders\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "BE105-WEEK-8\\Data\\Seeders\\DbSeeder.cs",
+              "ToolTip": "C:\\Users\\berat\\source\\repos\\BE105-WEEK-8\\BE105-WEEK-8\\Data\\Seeders\\DbSeeder.cs",
+              "RelativeToolTip": "BE105-WEEK-8\\Data\\Seeders\\DbSeeder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:53:37.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\berat\\source\\repos\\BE105-WEEK-8\\BE105-WEEK-8\\DTOs\\StudentUpdateDTO.cs",
+              "RelativeDocumentMoniker": "BE105-WEEK-8\\DTOs\\StudentUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\berat\\source\\repos\\BE105-WEEK-8\\BE105-WEEK-8\\DTOs\\StudentUpdateDTO.cs",
+              "RelativeToolTip": "BE105-WEEK-8\\DTOs\\StudentUpdateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:17:04.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\berat\\source\\repos\\BE105-WEEK-8\\BE105-WEEK-8\\DTOs\\StudentCreateDTO.cs",
+              "RelativeDocumentMoniker": "BE105-WEEK-8\\DTOs\\StudentCreateDTO.cs",
+              "ToolTip": "C:\\Users\\berat\\source\\repos\\BE105-WEEK-8\\BE105-WEEK-8\\DTOs\\StudentCreateDTO.cs",
+              "RelativeToolTip": "BE105-WEEK-8\\DTOs\\StudentCreateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:46:35.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\berat\\source\\repos\\BE105-WEEK-8\\BE105-WEEK-8\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "BE105-WEEK-8\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\berat\\source\\repos\\BE105-WEEK-8\\BE105-WEEK-8\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "BE105-WEEK-8\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAqwDYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:37:40.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\berat\\source\\repos\\BE105-WEEK-8\\BE105-WEEK-8\\Program.cs",
+              "RelativeDocumentMoniker": "BE105-WEEK-8\\Program.cs",
+              "ToolTip": "C:\\Users\\berat\\source\\repos\\BE105-WEEK-8\\BE105-WEEK-8\\Program.cs",
+              "RelativeToolTip": "BE105-WEEK-8\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:06:50.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\berat\\source\\repos\\BE105-WEEK-8\\BE105-WEEK-8\\Data\\EntityConfigurations\\StudentConfiguration.cs",
+              "RelativeDocumentMoniker": "BE105-WEEK-8\\Data\\EntityConfigurations\\StudentConfiguration.cs",
+              "ToolTip": "C:\\Users\\berat\\source\\repos\\BE105-WEEK-8\\BE105-WEEK-8\\Data\\EntityConfigurations\\StudentConfiguration.cs",
+              "RelativeToolTip": "BE105-WEEK-8\\Data\\EntityConfigurations\\StudentConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:22:20.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppdbContext.cs",
+              "DocumentMoniker": "C:\\Users\\berat\\source\\repos\\BE105-WEEK-8\\BE105-WEEK-8\\Data\\AppdbContext.cs",
+              "RelativeDocumentMoniker": "BE105-WEEK-8\\Data\\AppdbContext.cs",
+              "ToolTip": "C:\\Users\\berat\\source\\repos\\BE105-WEEK-8\\BE105-WEEK-8\\Data\\AppdbContext.cs",
+              "RelativeToolTip": "BE105-WEEK-8\\Data\\AppdbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:15:18.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\berat\\source\\repos\\BE105-WEEK-8\\BE105-WEEK-8\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "BE105-WEEK-8\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\berat\\source\\repos\\BE105-WEEK-8\\BE105-WEEK-8\\Entities\\Student.cs",
+              "RelativeToolTip": "BE105-WEEK-8\\Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:10:27.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\berat\\source\\repos\\BE105-WEEK-8\\BE105-WEEK-8\\appsettings.json",
+              "RelativeDocumentMoniker": "BE105-WEEK-8\\appsettings.json",
+              "ToolTip": "C:\\Users\\berat\\source\\repos\\BE105-WEEK-8\\BE105-WEEK-8\\appsettings.json",
+              "RelativeToolTip": "BE105-WEEK-8\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-21T10:07:02.236Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
